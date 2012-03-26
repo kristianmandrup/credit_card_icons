@@ -1,6 +1,27 @@
-= credit_card_icons
+= Credit Card icons
 
-Description goes here.
+Credit Card icons for Rails 3.
+
+This gem is a Rails 3 engine and includes a host of asset files including standalone image sets (icons), CSS sprites and stylesheets for the CSS sprites.
+
+== Usage
+
+Include the stylesheet(s) of choice in your Rails 3 application.css manifest file
+
+/*
+ * ...
+ *= require credit_cards
+*/
+
+Use the cards via CSS classes like so:
+
+%ul.credit_cards
+	%li..credit_card.sprite-mastercard
+
+Not that here the HTML structure is defined using HAML syntax.
+
+Please see the asset directory css files for how to use your stylesheet of choice.
+Feel free to improve this gem by modifying the css rules and/or include view helpers etc.
 
 == Contributing to credit_card_icons
  

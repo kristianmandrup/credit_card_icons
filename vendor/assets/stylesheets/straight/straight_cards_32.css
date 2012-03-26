@@ -1,0 +1,22 @@
+.straight .credit_cards_32 {
+    background: url(assets/payment/straight/.straight_cards_32.png) no-repeat top left;
+}
+
+.straight_card.sprite-2checkout-straight-32px{ background-position: 0 0; width: 51px; height: 32px; } 
+.straight_card.sprite-american-express-straight-32px{ background-position: 0 -82px; width: 51px; height: 32px; } 
+.straight_card.sprite-cirrus-straight-32px{ background-position: 0 -164px; width: 51px; height: 32px; } 
+.straight_card.sprite-delta-straight-32px{ background-position: 0 -246px; width: 51px; height: 32px; } 
+.straight_card.sprite-direct-debit-straight-32px{ background-position: 0 -328px; width: 51px; height: 32px; } 
+.straight_card.sprite-discover-straight-32px{ background-position: 0 -410px; width: 51px; height: 32px; } 
+.straight_card.sprite-ebay-straight-32px{ background-position: 0 -492px; width: 51px; height: 32px; } 
+.straight_card.sprite-google-checkout-straight-32px{ background-position: 0 -574px; width: 51px; height: 32px; } 
+.straight_card.sprite-maestro-straight-32px{ background-position: 0 -656px; width: 51px; height: 32px; } 
+.straight_card.sprite-mastercard-straight-32px{ background-position: 0 -738px; width: 51px; height: 32px; } 
+.straight_card.sprite-moneybookers-straight-32px{ background-position: 0 -820px; width: 51px; height: 32px; } 
+.straight_card.sprite-paypal-straight-32px{ background-position: 0 -902px; width: 51px; height: 32px; } 
+.straight_card.sprite-sagepay-straight-32px{ background-position: 0 -984px; width: 51px; height: 32px; } 
+.straight_card.sprite-solo-straight-32px{ background-position: 0 -1066px; width: 51px; height: 32px; } 
+.straight_card.sprite-switch-straight-32px{ background-position: 0 -1148px; width: 51px; height: 32px; } 
+.straight_card.sprite-visa-electron-straight-32px{ background-position: 0 -1230px; width: 51px; height: 32px; } 
+.straight_card.sprite-visa-straight-32px{ background-position: 0 -1312px; width: 51px; height: 32px; } 
+.straight_card.sprite-western-union-straight-32px{ background-position: 0 -1394px; width: 51px; height: 32px; } 

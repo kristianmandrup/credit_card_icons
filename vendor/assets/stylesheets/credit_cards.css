@@ -1,0 +1,39 @@
+.credit_cards {
+    background: url(assets/credit_cards/credit_cards.png) no-repeat top left;
+}
+
+.credit_card.sprite-amazon{ background-position: 0 0; width: 32px; height: 32px; } 
+.credit_card.sprite-amex{ background-position: 0 -82px; width: 32px; height: 32px; } 
+.credit_card.sprite-amex_alt{ background-position: 0 -164px; width: 32px; height: 32px; } 
+.credit_card.sprite-amex_gold{ background-position: 0 -246px; width: 32px; height: 32px; } 
+.credit_card.sprite-amex_green{ background-position: 0 -328px; width: 32px; height: 32px; } 
+.credit_card.sprite-amex_silver{ background-position: 0 -410px; width: 32px; height: 32px; } 
+.credit_card.sprite-apple{ background-position: 0 -492px; width: 32px; height: 32px; } 
+.credit_card.sprite-bank{ background-position: 0 -574px; width: 32px; height: 32px; } 
+.credit_card.sprite-cash{ background-position: 0 -656px; width: 32px; height: 32px; } 
+.credit_card.sprite-chase{ background-position: 0 -738px; width: 32px; height: 32px; } 
+.credit_card.sprite-coupon{ background-position: 0 -820px; width: 32px; height: 32px; } 
+.credit_card.sprite-credit{ background-position: 0 -902px; width: 32px; height: 32px; } 
+.credit_card.sprite-debit{ background-position: 0 -984px; width: 32px; height: 32px; } 
+.credit_card.sprite-discover{ background-position: 0 -1066px; width: 32px; height: 32px; } 
+.credit_card.sprite-discover_alt{ background-position: 0 -1148px; width: 32px; height: 32px; } 
+.credit_card.sprite-discover_novus{ background-position: 0 -1230px; width: 32px; height: 32px; } 
+.credit_card.sprite-echeck{ background-position: 0 -1312px; width: 32px; height: 32px; } 
+.credit_card.sprite-generic_1{ background-position: 0 -1394px; width: 32px; height: 32px; } 
+.credit_card.sprite-generic_2{ background-position: 0 -1476px; width: 32px; height: 32px; } 
+.credit_card.sprite-generic_3{ background-position: 0 -1558px; width: 32px; height: 32px; } 
+.credit_card.sprite-gift{ background-position: 0 -1640px; width: 32px; height: 32px; } 
+.credit_card.sprite-gift_alt{ background-position: 0 -1722px; width: 32px; height: 32px; } 
+.credit_card.sprite-gold{ background-position: 0 -1804px; width: 32px; height: 32px; } 
+.credit_card.sprite-googleckout{ background-position: 0 -1886px; width: 32px; height: 32px; } 
+.credit_card.sprite-itunes{ background-position: -82px 0; width: 32px; height: 32px; } 
+.credit_card.sprite-itunes_2{ background-position: -82px -82px; width: 32px; height: 32px; } 
+.credit_card.sprite-itunes_3{ background-position: -82px -164px; width: 32px; height: 32px; } 
+.credit_card.sprite-mastercard{ background-position: -82px -246px; width: 32px; height: 32px; } 
+.credit_card.sprite-mastercard_alt{ background-position: -82px -328px; width: 32px; height: 32px; } 
+.credit_card.sprite-mileage{ background-position: -82px -410px; width: 32px; height: 32px; } 
+.credit_card.sprite-paypal{ background-position: -82px -492px; width: 32px; height: 32px; } 
+.credit_card.sprite-sapphire{ background-position: -82px -574px; width: 32px; height: 32px; } 
+.credit_card.sprite-solo{ background-position: -82px -656px; width: 32px; height: 32px; } 
+.credit_card.sprite-visa{ background-position: -82px -738px; width: 32px; height: 32px; } 
+.credit_card.sprite-visa_alt{ background-position: -82px -820px; width: 32px; height: 32px; } 

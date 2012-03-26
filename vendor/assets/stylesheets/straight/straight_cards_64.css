@@ -1,0 +1,22 @@
+.straight. .credit_cards_64 {
+    background: url(assets/payment/straight/.straight_cards_64.png) no-repeat top left;
+}
+
+.straight_card.sprite-2checkout-straight-64px{ background-position: 0 0; width: 102px; height: 64px; } 
+.straight_card.sprite-american-express-straight-64px{ background-position: 0 -114px; width: 102px; height: 64px; } 
+.straight_card.sprite-cirrus-straight-64px{ background-position: 0 -228px; width: 102px; height: 64px; } 
+.straight_card.sprite-delta-straight-64px{ background-position: 0 -342px; width: 102px; height: 64px; } 
+.straight_card.sprite-direct-debit-straight-64px{ background-position: 0 -456px; width: 102px; height: 64px; } 
+.straight_card.sprite-discover-straight-64px{ background-position: 0 -570px; width: 101px; height: 64px; } 
+.straight_card.sprite-ebay-straight-64px{ background-position: 0 -684px; width: 101px; height: 64px; } 
+.straight_card.sprite-google-checkout-straight-64px{ background-position: 0 -798px; width: 101px; height: 64px; } 
+.straight_card.sprite-maestro-straight-64px{ background-position: 0 -912px; width: 101px; height: 64px; } 
+.straight_card.sprite-mastercard-straight-64px{ background-position: 0 -1026px; width: 102px; height: 64px; } 
+.straight_card.sprite-moneybookers-straight-64px{ background-position: 0 -1140px; width: 101px; height: 64px; } 
+.straight_card.sprite-paypal-straight-64px{ background-position: 0 -1254px; width: 101px; height: 64px; } 
+.straight_card.sprite-sagepay-straight-64px{ background-position: 0 -1368px; width: 101px; height: 64px; } 
+.straight_card.sprite-solo-straight-64px{ background-position: 0 -1482px; width: 102px; height: 64px; } 
+.straight_card.sprite-switch-straight-64px{ background-position: 0 -1596px; width: 102px; height: 64px; } 
+.straight_card.sprite-visa-electron-straight-64px{ background-position: 0 -1710px; width: 102px; height: 64px; } 
+.straight_card.sprite-visa-straight-64px{ background-position: 0 -1824px; width: 102px; height: 64px; } 
+.straight_card.sprite-western-union-straight-64px{ background-position: 0 -1938px; width: 102px; height: 64px; } 
