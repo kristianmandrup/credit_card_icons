@@ -1,5 +1,5 @@
 .credit_cards {
-    background: url(assets/credit_cards/credit_cards.png) no-repeat top left;
+    background: url(assets/credit_cards.png) no-repeat top left;
 }
 
 .credit_card.sprite-amazon{ background-position: 0 0; width: 32px; height: 32px; } 

@@ -1,5 +1,5 @@
 .straight .credit_cards_128 {
-    background: url(assets/payment/straight/.straight_cards_128.png) no-repeat top left;
+    background: url(assets/payment/straight/straight_cards_128.png) no-repeat top left;
 }
 
 .straight_card.sprite-2checkout-straight-128px{ background-position: 0 0; width: 203px; height: 128px; } 
