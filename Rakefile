@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "credit_card_icons"
   gem.homepage = "http://github.com/kristianmandrup/credit_card_icons"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Credit Card icons for Rails 3+}
+  gem.description = %Q{Credit Card icons ready for use with Rails asset pipeline}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
   # dependencies defined in Gemfile
