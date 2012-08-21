@@ -1,22 +1,22 @@
-.curved_card .credit_cards_32 {
-    background: url(assets/payment/curved/curved_cards_32.png) no-repeat top left;
+.cc_32 .curved_card {
+    background: url(/assets/payment/curved/curved_cards_32.png) no-repeat top left;
 }
 
-.curved_card.sprite-2checkout-curved-32px{ background-position: 0 0; width: 51px; height: 32px; } 
-.curved_card.sprite-american-express-curved-32px{ background-position: 0 -82px; width: 51px; height: 32px; } 
-.curved_card.sprite-cirrus-curved-32px{ background-position: 0 -164px; width: 51px; height: 32px; } 
-.curved_card.sprite-delta-curved-32px{ background-position: 0 -246px; width: 51px; height: 32px; } 
-.curved_card.sprite-direct-debit-curved-32px{ background-position: 0 -328px; width: 51px; height: 32px; } 
-.curved_card.sprite-discover-curved-32px{ background-position: 0 -410px; width: 51px; height: 32px; } 
-.curved_card.sprite-ebay-curved-32px{ background-position: 0 -492px; width: 51px; height: 32px; } 
-.curved_card.sprite-google-checkout-curved-32px{ background-position: 0 -574px; width: 51px; height: 32px; } 
-.curved_card.sprite-maestro-curved-32px{ background-position: 0 -656px; width: 52px; height: 32px; } 
-.curved_card.sprite-mastercard-curved-32px{ background-position: 0 -738px; width: 51px; height: 32px; } 
-.curved_card.sprite-moneybookers-curved-32px{ background-position: 0 -820px; width: 51px; height: 32px; } 
-.curved_card.sprite-paypal-curved-32px{ background-position: 0 -902px; width: 51px; height: 32px; } 
-.curved_card.sprite-sagepay-curved-32px{ background-position: 0 -984px; width: 51px; height: 32px; } 
-.curved_card.sprite-solo-curved-32px{ background-position: 0 -1066px; width: 51px; height: 32px; } 
-.curved_card.sprite-switch-curved-32px{ background-position: 0 -1148px; width: 51px; height: 32px; } 
-.curved_card.sprite-visa-curved-32px{ background-position: 0 -1230px; width: 51px; height: 32px; } 
-.curved_card.sprite-visa-electron-curved-32px{ background-position: 0 -1312px; width: 51px; height: 32px; } 
-.curved_card.sprite-western-union-curved-32px{ background-position: 0 -1394px; width: 51px; height: 32px; } 
+.curved_card.2checkout{ background-position: 0 0; width: 51px; height: 32px; } 
+.curved_card.american-express{ background-position: 0 -82px; width: 51px; height: 32px; } 
+.curved_card.cirrus{ background-position: 0 -164px; width: 51px; height: 32px; } 
+.curved_card.delta{ background-position: 0 -246px; width: 51px; height: 32px; } 
+.curved_card.direct-debit{ background-position: 0 -328px; width: 51px; height: 32px; } 
+.curved_card.discover{ background-position: 0 -410px; width: 51px; height: 32px; } 
+.curved_card.ebay{ background-position: 0 -492px; width: 51px; height: 32px; } 
+.curved_card.google-checkout{ background-position: 0 -574px; width: 51px; height: 32px; } 
+.curved_card.maestro{ background-position: 0 -656px; width: 52px; height: 32px; } 
+.curved_card.mastercard{ background-position: 0 -738px; width: 51px; height: 32px; } 
+.curved_card.moneybookers{ background-position: 0 -820px; width: 51px; height: 32px; } 
+.curved_card.paypal{ background-position: 0 -902px; width: 51px; height: 32px; } 
+.curved_card.sagepay{ background-position: 0 -984px; width: 51px; height: 32px; } 
+.curved_card.solo{ background-position: 0 -1066px; width: 51px; height: 32px; } 
+.curved_card.switch{ background-position: 0 -1148px; width: 51px; height: 32px; } 
+.curved_card.visa{ background-position: 0 -1230px; width: 51px; height: 32px; } 
+.curved_card.visa-electron{ background-position: 0 -1312px; width: 51px; height: 32px; } 
+.curved_card.western-union{ background-position: 0 -1394px; width: 51px; height: 32px; } 

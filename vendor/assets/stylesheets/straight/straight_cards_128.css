@@ -1,22 +1,22 @@
-.straight .credit_cards_128 {
-    background: url(assets/payment/straight/straight_cards_128.png) no-repeat top left;
+.cc_128 .straight-card {
+    background: url(/assets/payment/straight/straight_cards_128.png) no-repeat top left;
 }
 
-.straight_card.sprite-2checkout-straight-128px{ background-position: 0 0; width: 203px; height: 128px; } 
-.straight_card.sprite-american-express-straight-128px{ background-position: 0 -178px; width: 203px; height: 128px; } 
-.straight_card.sprite-cirrus-straight-128px{ background-position: 0 -356px; width: 203px; height: 128px; } 
-.straight_card.sprite-delta-straight-128px{ background-position: 0 -534px; width: 203px; height: 128px; } 
-.straight_card.sprite-direct-debit-straight-128px{ background-position: 0 -712px; width: 203px; height: 128px; } 
-.straight_card.sprite-discover-straight-128px{ background-position: 0 -890px; width: 202px; height: 128px; } 
-.straight_card.sprite-ebay-straight-128px{ background-position: 0 -1068px; width: 202px; height: 128px; } 
-.straight_card.sprite-google-checkout-straight-128px{ background-position: 0 -1246px; width: 201px; height: 128px; } 
-.straight_card.sprite-maestro-straight-128px{ background-position: 0 -1424px; width: 203px; height: 128px; } 
-.straight_card.sprite-mastercard-straight-128px{ background-position: 0 -1602px; width: 204px; height: 128px; } 
-.straight_card.sprite-moneybookers-straight-128px{ background-position: 0 -1780px; width: 201px; height: 128px; } 
-.straight_card.sprite-paypal-straight-128px{ background-position: -254px 0; width: 202px; height: 128px; } 
-.straight_card.sprite-sagepay-straight-128px{ background-position: -254px -178px; width: 201px; height: 128px; } 
-.straight_card.sprite-solo-straight-128px{ background-position: -254px -356px; width: 204px; height: 128px; } 
-.straight_card.sprite-switch-straight-128px{ background-position: -254px -534px; width: 203px; height: 128px; } 
-.straight_card.sprite-visa-electron-straight-128px{ background-position: -254px -712px; width: 204px; height: 128px; } 
-.straight_card.sprite-visa-straight-128px{ background-position: -254px -890px; width: 203px; height: 128px; } 
-.straight_card.sprite-western-union-straight-128px{ background-position: -254px -1068px; width: 204px; height: 128px; } 
+.straight_card.2checkout{ background-position: 0 0; width: 203px; height: 128px; } 
+.straight_card.american-express{ background-position: 0 -178px; width: 203px; height: 128px; } 
+.straight_card.cirrus{ background-position: 0 -356px; width: 203px; height: 128px; } 
+.straight_card.delta{ background-position: 0 -534px; width: 203px; height: 128px; } 
+.straight_card.direct-debit{ background-position: 0 -712px; width: 203px; height: 128px; } 
+.straight_card.discover{ background-position: 0 -890px; width: 202px; height: 128px; } 
+.straight_card.ebay{ background-position: 0 -1068px; width: 202px; height: 128px; } 
+.straight_card.google-checkout{ background-position: 0 -1246px; width: 201px; height: 128px; } 
+.straight_card.maestro{ background-position: 0 -1424px; width: 203px; height: 128px; } 
+.straight_card.mastercard{ background-position: 0 -1602px; width: 204px; height: 128px; } 
+.straight_card.moneybookers{ background-position: 0 -1780px; width: 201px; height: 128px; } 
+.straight_card.paypal{ background-position: -254px 0; width: 202px; height: 128px; } 
+.straight_card.sagepay{ background-position: -254px -178px; width: 201px; height: 128px; } 
+.straight_card.solo{ background-position: -254px -356px; width: 204px; height: 128px; } 
+.straight_card.switch{ background-position: -254px -534px; width: 203px; height: 128px; } 
+.straight_card.visa-electron{ background-position: -254px -712px; width: 204px; height: 128px; } 
+.straight_card.visa{ background-position: -254px -890px; width: 203px; height: 128px; } 
+.straight_card.western-union{ background-position: -254px -1068px; width: 204px; height: 128px; } 
